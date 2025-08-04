@@ -27,12 +27,9 @@ pip install -r requirements.txt
         → Transpose pitch  
         → Adjust velocity 
         → Change instrument program  
-        
       → **Audio Synthesis** (choose one):  
-      
-            → Differentiable Rendering (AI-based)  
-            → FluidSynth (rule-based)  
-            
+        → Differentiable Rendering (AI-based)  
+        → FluidSynth (rule-based)  
       → **Evaluation** (symbolic + audio metrics)  
       → **Final Output: .wav in a new instrument’s voice**
 
