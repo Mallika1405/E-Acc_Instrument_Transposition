@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 
-## 🎶 Project Pipeline Overview
+## 🎶 Proposed Project Pipeline
 
 
  - ### 🔁 Simplified Pipeline with Stages
