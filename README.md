@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## 🎶 Project Pipeline Overview
 
 
-## 🔁 Simplified Pipeline with Stages
+### 🔁 Simplified Pipeline with Stages
 
 **Input: .wav**  
 **Transcription** : **.wav -> MIDI**  
