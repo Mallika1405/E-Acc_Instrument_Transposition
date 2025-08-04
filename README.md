@@ -36,7 +36,7 @@ pip install -r requirements.txt
       - **FluidSynth (rule-based)**: Rule-based SoundFont synthesis. Practical baseline.
 
            
-      → **`**Evaluation** (symbolic + audio metrics)`** : Assess the output both symbolically (is the MIDI accurate?) and audibly (does the final sound actually sound like the intended instrument?)
+      → **`Evaluation (symbolic + audio metrics)`** : Assess the output both symbolically (is the MIDI accurate?) and audibly (does the final sound actually sound like the intended instrument?)
      - **Symbolic**: Note onset, pitch, rhythm accuracy
      - **Audio**: MelCD, spectral convergence, instrument classification, perceptual tests
 
