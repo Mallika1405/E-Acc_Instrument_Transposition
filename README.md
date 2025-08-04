@@ -27,18 +27,17 @@ pip install -r requirements.txt
      
       → **Symbolic Manipulation** :
         - With pretty_midi, allows:
-
             - Pitch transposition
             - Velocity adjustment
             - Instrument program reassignment
      
-      → **Audio Synthesis** (choose one):  
-        → Differentiable Rendering (AI-based) :  Learns synthesis with Mel-spectrogram loss. High quality.
-        → FluidSynth (rule-based) : Rule-based SoundFont synthesis. Practical baseline.
+      → **Audio Synthesis** (choose one):
+           → **Differentiable Rendering (AI-based)** :  Learns synthesis with Mel-spectrogram loss. High quality.
+           → **FluidSynth (rule-based)** : Rule-based SoundFont synthesis. Practical baseline.
      
-      → **Evaluation** (symbolic + audio metrics)
-     
-      → **Final Output: .wav in a new instrument’s voice**
+      → **Evaluation** (symbolic + audio metrics) : 
+      
+      → **Final Output: `.wav` in a new instrument’s voice**
 
 
 
