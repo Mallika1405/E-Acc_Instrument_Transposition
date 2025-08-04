@@ -28,8 +28,8 @@ pip install -r requirements.txt
       → **Symbolic Manipulation** :
         - With pretty_midi, allows:
           
-            - Pitch transposition
-            - Velocity adjustment
+            - Pitch transposition (i.e. what notes are played)
+            - Velocity adjustment (i.e. how hard they're hit)
             - Instrument program reassignment
               
       → **Audio Synthesis** (choose one):
