@@ -35,10 +35,9 @@ pip install -r requirements.txt
       - **Differentiable Rendering (AI-based)**: Learns synthesis with Mel-spectrogram loss. High quality.
       - **FluidSynth (rule-based)**: Rule-based SoundFont synthesis. Practical baseline.
 
-     
-
            
-      → **Evaluation** (symbolic + audio metrics) : 
+      → **Evaluation** (symbolic + audio metrics) : Assess the output both symbolically (is the MIDI accurate?) and audibly (does the final sound actually sound like the intended instrument?)
+
       → **Final Output: `.wav` in a new instrument’s voice**
 
 
