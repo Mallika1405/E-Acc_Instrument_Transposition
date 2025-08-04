@@ -3,5 +3,5 @@
 
 
 ## Contributors: 
-    Malilka Dasgupta
-    Ashish Bamba
+ Malilka Dasgupta
+ Ashish Bamba
