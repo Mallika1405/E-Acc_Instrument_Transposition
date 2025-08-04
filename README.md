@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## 🎶 Proposed Project Pipeline
 
-   - ## 🎯 Project Pipeline Overview
+   - ### 🎯 Project Pipeline Overview
 
       → **Raw Audio (.wav)**  
       → **Transcription** using Onsets and Frames → **MIDI**  
