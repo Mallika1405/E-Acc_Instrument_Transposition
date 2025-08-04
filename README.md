@@ -31,10 +31,12 @@ pip install -r requirements.txt
             - Pitch transposition
             - Velocity adjustment
             - Instrument program reassignment
-     
+              
       → **Audio Synthesis** (choose one):
-            - **Differentiable Rendering (AI-based)**: Learns synthesis with Mel-spectrogram loss. High quality.
-            - **FluidSynth (rule-based)**: Rule-based SoundFont synthesis. Practical baseline.
+
+      - **Differentiable Rendering (AI-based)**: Learns synthesis with Mel-spectrogram loss. High quality.
+      - **FluidSynth (rule-based)**: Rule-based SoundFont synthesis. Practical baseline.
+
      
 
            
