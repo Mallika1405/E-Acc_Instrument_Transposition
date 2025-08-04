@@ -1,8 +1,11 @@
 # E-Acc_Instrument_Transposition
 
+## 🖥 Installation 
+
+## Project Pipeline Overview
 
 
-## Contributors: 
+## 👤 Contributors: 
 - Malilka Dasgupta
 - Ashish Bamba
 
