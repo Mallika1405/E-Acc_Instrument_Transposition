@@ -18,15 +18,21 @@ pip install -r requirements.txt
 
    - ### 🎯 Project Pipeline Overview
 
-      → **Raw Audio (.wav)**  
-      → **Transcription** using Onsets and Frames → **MIDI**  
-      → **Symbolic Manipulation** with `pretty_midi`:  
+      → **Raw Audio (.wav)**
+     
+      → **Transcription** using Onsets and Frames → **MIDI**
+     
+      → **Symbolic Manipulation** with `pretty_midi`:
+     
         → Transpose pitch  
-        → Adjust velocity  
+        → Adjust velocity 
         → Change instrument program  
+        
       → **Audio Synthesis** (choose one):  
-      → Differentiable Rendering (AI-based)  
-      → FluidSynth (rule-based)  
+      
+            → Differentiable Rendering (AI-based)  
+            → FluidSynth (rule-based)  
+            
       → **Evaluation** (symbolic + audio metrics)  
       → **Final Output: .wav in a new instrument’s voice**
 
