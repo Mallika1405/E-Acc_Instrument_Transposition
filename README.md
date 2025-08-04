@@ -13,6 +13,9 @@ cd E-Acc_Instrument_Transposition
 pip install -r requirements.txt
 ```
 
+## Purpose
+
+   - A 10-second pitch
 
 ## 🎶 Proposed Project Pipeline
 
