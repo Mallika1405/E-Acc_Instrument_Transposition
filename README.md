@@ -5,7 +5,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/AshishBamba05/E-Acc_Instrument_Transposition.git
+git clone https://github.com/Malilka/E-Acc_Instrument_Transposition.git
 cd E-Acc_Instrument_Transposition
 ```
 ### 2. Install Dependencies
