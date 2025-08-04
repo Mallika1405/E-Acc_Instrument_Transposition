@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
    - ### 🎯 Project Pipeline Overview
 
-      → **Raw Audio (.wav)**
+      → **Raw Audio (`.wav`)**
      
       → **Audio Transcription** : Uses `Onsets and Frames model` to transcribe raw polyphonic audio into MIDI. Suitable for piano-like input.
      
