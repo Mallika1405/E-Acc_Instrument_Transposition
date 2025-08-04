@@ -19,10 +19,10 @@ pip install -r requirements.txt
 
 ## 🔁 Simplified Pipeline with Stages
 
-**Input .wav**  
-→ _(Transcription)_ → **MIDI**  
-→ _(Symbolic Manipulation)_ → **Modified MIDI**  
-→ _(Synthesis)_ → **Output .wav (new instrument)**
+**Input: .wav**  
+→ **Transcription** → **.wav -> MIDI**  
+→ **Symbolic Manipulation** → **.MIDI -> .prettyMIDI**  
+→ **Synthesis** → **.prettyMIDI -> .wav (new instrument)**
 
 
 
