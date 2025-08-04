@@ -1,21 +1,22 @@
 # E-Acc_Instrument_Transposition
 
-## 🖥 Getting Started 
+## 🚀 Getting Started 
 
 ### 1. Clone the repo
-
 ```bash
 git clone https://github.com/Malilka/E-Acc_Instrument_Transposition.git
 cd E-Acc_Instrument_Transposition
 ```
-### 2. Install Dependencies
 
+### 2. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
 
 
 ## Project Pipeline Overview
+
+  - Altogether, the precise pipeline workflow is as follows: .wav --> .MIDI --> .prettyMIDI --> .wav
 
 
 ## 👤 Contributors: 
