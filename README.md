@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
       → **Raw Audio (.wav)**
      
-      → **Asudio Transcription** : Uses Onsets and Frames model to transcribe raw polyphonic audio into MIDI. Suitable for piano-like input.
+      → **Audio Transcription** : Uses Onsets and Frames model to transcribe raw polyphonic audio into MIDI. Suitable for piano-like input.
      
       → **Symbolic Manipulation** :
         - With pretty_midi, allows:
@@ -33,8 +33,9 @@ pip install -r requirements.txt
             - Instrument program reassignment
      
       → **Audio Synthesis** (choose one):
-         - **Differentiable Rendering (AI-based)**: Learns synthesis with Mel-spectrogram loss. High quality.
-         - **FluidSynth (rule-based)**: Rule-based SoundFont synthesis. Practical baseline.
+            - **Differentiable Rendering (AI-based)**: Learns synthesis with Mel-spectrogram loss. High quality.
+            - **FluidSynth (rule-based)**: Rule-based SoundFont synthesis. Practical baseline.
+     
 
            
       → **Evaluation** (symbolic + audio metrics) : 
