@@ -16,7 +16,14 @@ pip install -r requirements.txt
 
 ## 🎶 Project Pipeline Overview
 
-  - Altogether, the precise pipeline workflow is as follows: .wav --> .MIDI --> .prettyMIDI --> .wav
+
+## 🔁 Simplified Pipeline with Stages
+
+**Input .wav**  
+→ _(Transcription)_ → **MIDI**  
+→ _(Symbolic Manipulation)_ → **Modified MIDI**  
+→ _(Synthesis)_ → **Output .wav (new instrument)**
+
 
 
 ## 👤 Contributors: 
