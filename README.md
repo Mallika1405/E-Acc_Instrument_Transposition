@@ -46,8 +46,8 @@ pip install -r requirements.txt
 
    - **Input: .wav**  
    - **Transcription** : **.wav -> MIDI**  
-   - **Symbolic Manipulation** : **.MIDI -> .prettyMIDI**  
-   - **Synthesis** : **.prettyMIDI -> .wav (new instrument)**
+   - **Symbolic Manipulation** : **MIDI -> new MIDI**  
+   - **Synthesis** : **new MIDI -> .wav (new instrument)**
      
 
 ## 💻 File Overview
