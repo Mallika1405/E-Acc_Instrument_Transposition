@@ -28,11 +28,8 @@ pip install -r requirements.txt
      
 
 ## 💻 File Overview
-
-
-## 👤 Contributors: 
-- Malilka Dasgupta
-- Ashish Bamba
+- [Mallika Dasgupta](https://github.com/Mallika1405)
+- [Ashish Bamba](https://github.com/AshishBamba05)
 
 ## 📚 References
 
