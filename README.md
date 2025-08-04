@@ -26,7 +26,7 @@ pip install -r requirements.txt
       → **`Audio Transcription`** : Uses **Onsets and Frames model** to transcribe raw polyphonic audio into MIDI. Suitable for piano-like input.
      
       → **`Symbolic Manipulation`** :
-        - With **pretty_midi**, we perform:
+        - With **pretty_midi**, we transform the MIDI file by updating the following parameters:
             - Pitch transposition (i.e. what notes are played)
             - Velocity adjustment (i.e. how hard they're hit)
             - Instrument program reassignment
