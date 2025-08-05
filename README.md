@@ -96,6 +96,9 @@ Use this repo if you want to **render expressive audio from MIDI**, compare synt
 - [Ashish Bamba](https://github.com/AshishBamba05)
 
 ## 📑 Relevant Documents
+
+For more information regarding any relevant component to this research project pipeline, please feel free to refer to the following document: 
+
 - [MuseScore+ E/Acc Document](https://docs.google.com/document/d/1oZA30UqnOtiMxfK-RZ8UEz_G2kqgnJWKfGTHXXf4PLQ/edit?tab=t.0#heading=h.d8uue6rjq29x)
 
 ## 📚 References
