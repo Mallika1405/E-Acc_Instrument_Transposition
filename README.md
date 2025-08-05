@@ -58,8 +58,8 @@ A 10-second pitch: ⚡ From raw audio to reimagined sound—transcribe, transfor
    - **Synthesis** : **new MIDI -> .wav (new instrument)**
 
 
-- ## Scope Of This GitHub Repository
-   - 
+## Scope Of This GitHub Repository
+  - 
      
 
 ## 💻 File Overview
