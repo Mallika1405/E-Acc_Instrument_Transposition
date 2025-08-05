@@ -91,6 +91,11 @@ Use this repo if you want to **render expressive audio from MIDI**, compare synt
 | `requirements.txt` | Python dependencies |
 
 
+## Relevant Libraries / Frameworks
+- PyTorch
+- PrettyMIDI
+
+
 ## 👤 Contributors
 - [Mallika Dasgupta](https://github.com/Mallika1405)
 - [Ashish Bamba](https://github.com/AshishBamba05)
