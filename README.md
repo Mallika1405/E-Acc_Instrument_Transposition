@@ -13,15 +13,18 @@ cd E-Acc_Instrument_Transposition
 pip install -r requirements.txt
 ```
 
+## About
+
+
 ## 🎯 Purpose
 
-A 10-second pitch: ⚡ From raw audio to reimagined sound—transcribe, transform, and resynthesize music with precision. Whether it’s pitch-shifting or full instrument swap, this pipeline takes you from .wav to expressive .wav in a whole new voice
+A 10-second pitch: ⚡ Meet MuseScore+ — your all-in-one AI music engine. Go from raw audio to a brand-new voice in seconds. Transcribe with precision, manipulate with power, and synthesize with style.
      
-   - ✅ ***Accurate:*** high‑quality transcription using the **Onsets and Frames** model
+   - ✅ ***Studio-Grade Accuracy:*** high‑quality transcription using the **Onsets and Frames** model
         
-   - 🚀 ***Fast:*** **FluidSynth** baseline renders quickly with SoundFonts; great for demos and batch jobs
+   - 🚀 ***Blazing Fast:*** **FluidSynth** baseline renders quickly with SoundFonts; great for demos and batch jobs
         
-   - 🎚 ***Versatile:*** Transpose pitch, scale velocities, remap instruments via CLI or Python API
+   - 🎚 ***Fully Customizable:*** Transpose pitch, scale velocities, remap instruments via CLI or Python API
 
 
 ## 🎶 Proposed Project Pipeline
