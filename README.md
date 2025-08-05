@@ -54,6 +54,17 @@ pip install -r requirements.txt
 
 ## 💻 File Overview
 
+| File | Description |
+|------|-------------|
+| `integration_code.py` | End-to-end pipeline controller |
+| `differentiable_renderer.py` | Differentiable synthesis backend |
+| `train_differentiable_synthesizer.py` | Training loop for learned audio renderer |
+| `midi_to_audio_converter.py` | MIDI to audio using FluidSynth |
+| `simple_converter.py` | Simpler CLI wrapper for FluidSynth synthesis |
+| `midi_to_audio_cli.py` | Command-line interface for conversion |
+| `requirements.txt` | Python dependencies |
+
+
 ## 👤 Contributors
 - [Mallika Dasgupta](https://github.com/Mallika1405)
 - [Ashish Bamba](https://github.com/AshishBamba05)
