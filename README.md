@@ -19,7 +19,7 @@ A 10-second pitch: ⚡ From raw audio to reimagined sound—transcribe, transfor
      
    - ✅ **Accurate:** high‑quality transcription using the **Onsets and Frames** model
         
-   - 🚀 **Fast:** **FluidSynth** baseline renders quickly with SoundFonts; great for demos and batch jobs
+   - 🚀 **Fast:** ***FluidSynth*** baseline renders quickly with SoundFonts; great for demos and batch jobs
         
    - 🎚 **Versatile:** Transpose pitch, scale velocities, remap instruments via CLI or Python API
 
