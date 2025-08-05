@@ -92,8 +92,10 @@ Use this repo if you want to **render expressive audio from MIDI**, compare synt
 
 
 ## Relevant Libraries / Frameworks
-- PyTorch
-- PrettyMIDI
+- `PyTorch`
+- `PrettyMIDI`
+- `Librosa`
+- `NumPy`
 
 
 ## 👤 Contributors
