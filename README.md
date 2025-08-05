@@ -15,7 +15,10 @@ pip install -r requirements.txt
 
 ## 🎯 Purpose
 
-   - A 10-second pitch: 
+   - A 10-second pitch:
+   - > ⚡ *A fast and flexible MIDI-to-audio synthesizer.*
+   - > Whether you want speed (FluidSynth) or realism (AI rendering), this tool turns MIDI into clean, expressive audio.
+
 
 ## 🎶 Proposed Project Pipeline
 
@@ -41,6 +44,8 @@ pip install -r requirements.txt
      - **Audio**: MelCD, spectral convergence, instrument classification, perceptual tests
 
       → **`Final Output`**: **.wav** in a new instrument’s voice
+
+
 
 
 
