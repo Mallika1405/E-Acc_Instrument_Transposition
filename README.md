@@ -13,7 +13,12 @@ cd E-Acc_Instrument_Transposition
 pip install -r requirements.txt
 ```
 
-## About
+## 📌 About
+
+This repository is part of a larger research initiative exploring AI-powered music processing pipelines — from audio transcription to symbolic manipulation and neural resynthesis. The project forms a key component of MuseScore+, an experimental tool for expressive music transformation.
+
+🔬 This work will be presented at the San Diego Tech Conference (SDTC) on October 7th, 2025, as part of a collaborative research effort focused on intelligent audio synthesis.
+
 
 
 ## 🎯 Purpose
@@ -27,7 +32,7 @@ A 10-second pitch: ⚡ Meet MuseScore+ — your all-in-one AI music engine. Go f
    - 🎚 ***Fully Customizable:*** Transpose pitch, scale velocities, remap instruments via CLI or Python API
 
 
-## 🎶 Proposed Project Pipeline
+## 🎶 Full Proposed Project Pipeline
 
    - ### 🛠 Project Pipeline Overview
 
