@@ -57,10 +57,18 @@ A 10-second pitch: ⚡ From raw audio to reimagined sound—transcribe, transfor
    - **Symbolic Manipulation** : **MIDI -> new MIDI**  
    - **Synthesis** : **new MIDI -> .wav (new instrument)**
 
+## 📦 Scope of This Repository
 
-## Scope Of This GitHub Repository
-  - 
-     
+This repository focuses specifically on the **audio synthesis** component of the full instrument transposition pipeline. It includes:
+
+- ✅ A CLI + Python API for MIDI-to-audio conversion
+- ✅ Two backends: rule-based (FluidSynth) and AI-based (Differentiable Renderer)
+- ✅ Tools to train the differentiable synthesizer on WAV instrument samples
+- ❌ Does not handle audio transcription (e.g. .wav → MIDI) — this is out-of-scope
+- ❌ Does not perform symbolic manipulation (e.g. pitch shift, velocity changes) directly, but supports MIDI pre-processing via config
+
+Use this repo if you want to **render expressive audio from MIDI**, compare synthesis strategies, or experiment with AI-driven timbre modeling.
+
 
 ## 💻 File Overview
 
