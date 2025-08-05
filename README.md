@@ -51,15 +51,16 @@ pip install -r requirements.txt
       → **`Final Output`**: **.wav** in a new instrument’s voice
 
 
-
-
-
  - ### 🔁 Simplified Pipeline with Stages
 
    - **Input: .wav**  
    - **Transcription** : **.wav -> MIDI**  
    - **Symbolic Manipulation** : **MIDI -> new MIDI**  
    - **Synthesis** : **new MIDI -> .wav (new instrument)**
+
+
+- ## Scope Of This GitHub Repository
+   - 
      
 
 ## 💻 File Overview
