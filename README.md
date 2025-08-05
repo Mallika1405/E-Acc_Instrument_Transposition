@@ -15,9 +15,9 @@ pip install -r requirements.txt
 
 ## 📌 About
 
-This repository is part of a larger research initiative exploring AI-powered music processing pipelines — from audio transcription to symbolic manipulation and neural resynthesis. The project forms a key component of MuseScore+, an experimental tool for expressive music transformation.
+This repository is part of a larger research initiative @ ***CSES E/Acc (Effective Accelerationism)*** exploring AI-powered music processing pipelines — from audio transcription to symbolic manipulation and neural resynthesis. The project forms a key component of **MuseScore+**, an experimental tool for expressive music transformation.
 
-🔬 This work will be presented at the San Diego Tech Conference (SDTC) on October 7th, 2025, as part of a collaborative research effort focused on intelligent audio synthesis.
+🔬 This work will be presented at the ***San Diego Tech Conference (SDTC)*** on October 2025, as part of a collaborative research effort focused on intelligent audio synthesis.
 
 
 
